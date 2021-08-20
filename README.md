@@ -1,2 +1,2 @@
 # Arduino-BT-Robot
-Bluetooth controlled arduino robot
+Bluetooth controlled Arduino robot
